@@ -1,5 +1,5 @@
 #### SETUP #####
-setwd("~/Dropbox/Brown/Fun writing/Wordle/Public code")
+library(here)
 library(tidyverse)
 library(tictoc)
 library(data.table)
